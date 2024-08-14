@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        // Define global variables to store the name and uid
+        var userName;
+        var userId;
+
+        // Function to get query parameters
+        function getQueryParams() {
+            const params = new URLSearchParams(window.location.search);
+            return params;
+        }
+
+        // Function to display name and uid
+        function displayUserInfo() {
+            const queryParams = getQueryParams();
+            const name = queryParams.get('name') || 'Guest'; // Default to 'Guest' if no name parameter is found
+            const uid = queryParams.get('uid') || 'unknown'; // Default to 'unknown' if no uid parameter is found
+            console.log("name=", name);
+            console.log("uid=", uid);
+            const greetingElement = document.getElementById('greeting');
+            greetingElement.textContent = `Hello, ${name}! `;
+
+            // Store the name and uid in the global variables
+            userName = name;
+            userId = uid;
+
+            // Store the name and uid in local storage
+            localStorage.setItem('userName', name);
+            localStorage.setItem('userId', uid);
+        }
+
+        // Call displayUserInfo on window load
+        window.onload = displayUserInfo;
+
+        function handleLogout() {
+            window.location.href = 'https://quizapp-8bce7.web.app/';
+        }
+    </script>
+</head>
+<body>
+    <h1 id="greeting"> </h1>
+    <button onclick="handleLogout()">Logout</button>
+    <button onclick="window.location.href='calling.html'">Go to Page 2</button>
+</body>
+</html>

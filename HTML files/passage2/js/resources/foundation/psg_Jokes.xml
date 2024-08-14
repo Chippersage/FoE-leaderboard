@@ -1,0 +1,571 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<activities desc="jokes" headertext="Read the joke. Choose the correct answer for the question" >
+  
+  <Passage Stage="0" id="psge_1"  JokesGroupId="Jokes_1" desc="How did the barber win the race?  He knew a short cut." Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="What does a barber do?" > 
+      <option slno="1" desc="Makes clothes" correct="false" />
+      <option slno="2" desc="Makes furniture" correct="false"  />
+      <option slno="3" desc="Cuts people's hair" correct="true"  />
+    </question>
+
+    <question id="2" question="What is the opposite of win?" > 
+      <option slno="1" desc="Lose" correct="true" />
+      <option slno="2" desc="Lace" correct="false"  />
+      <option slno="3" desc="Lead" correct="false"  />
+    </question>
+
+    <question id="3" question="How does a barber give a cut?" > 
+      <option slno="1" desc="He uses a knife." correct="false" />
+      <option slno="2" desc="He uses scissors." correct="true"  />
+      <option slno="3" desc="He uses pencils." correct="false"  />
+    </question>
+
+  </Passage>
+ 
+  <Passage Stage="0" id="psge_2"  JokesGroupId="Jokes_2" desc="What did 0 say to 8? - Nice belt!" Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="Which number comes before 8?" > 
+      <option slno="1" desc="two" correct="false" />
+      <option slno="2" desc="seven" correct="true"  />
+      <option slno="3" desc="nine" correct="false"  />
+    </question>
+
+    <question id="2" question="Nice means _______" > 
+      <option slno="1" desc="angry" correct="false" />
+      <option slno="2" desc="happy" correct="false"  />
+      <option slno="3" desc="good" correct="true"  />
+    </question>
+
+    <question id="3" question="Another word for 'say' is _____" > 
+      <option slno="1" desc="To tell" correct="true" />
+      <option slno="2" desc="To draw" correct="false"  />
+      <option slno="3" desc="To play" correct="false"  />
+    </question>
+  </Passage>
+
+<Passage Stage="0" id="psge_3"  JokesGroupId="Jokes_3" desc="Why did the sun go to school? -To get brighter!" Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="What does the Sun want to become?" > 
+      <option slno="1" desc="Faster" correct="false" />
+      <option slno="2" desc="Darker" correct="false"  />
+      <option slno="3" desc="Brighter" correct="true"  />
+    </question>
+
+    <question id="2" question="Does the Sun actually go to school?" > 
+      <option slno="1" desc="Yes" correct="false" />
+      <option slno="2" desc="No" correct="true"  />
+    </question>
+  </Passage>
+
+ <Passage Stage="0" id="psge_4"  JokesGroupId="Jokes_4" desc="What is the sweetest letter in the alphabet? G. Because it is in the middle of sugar" Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="How many letters are there in the alphabet?" > 
+      <option slno="1" desc="23" correct="false" />
+      <option slno="2" desc="29" correct="false"  />
+      <option slno="3" desc="26" correct="true"  />
+    </question>
+
+    <question id="2" question="The taste of sugar is ______." > 
+      <option slno="1" desc="sweet" correct="true" />
+      <option slno="2" desc="bitter" correct="false"  />
+      <option slno="3" desc="sour" correct="false"  />
+    </question>
+
+    <question id="3" question="Middle means to be ______." > 
+      <option slno="1" desc="First" correct="false" />
+      <option slno="2" desc="Last" correct="false"  />
+      <option slno="3" desc="In between" correct="true"  />
+    </question>
+  </Passage>
+
+<Passage Stage="1" id="psge_1"  JokesGroupId="Jokes_1" desc="Why did the cow go to outer space?-To visit the milky way" Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="What is the milky way?" > 
+      <option slno="1" desc="The name of a milk store." correct="false" />
+      <option slno="2" desc="The name of our galaxy." correct="true"  />
+      <option slno="3" desc="The name of a farm." correct="false"  />
+    </question>
+
+    <question id="2" question="Who goes to outer space?" > 
+      <option slno="1" desc="The dog" correct="false" />
+      <option slno="2" desc="The elephant" correct="false"  />
+      <option slno="3" desc="The cow" correct="true"  />
+    </question>
+
+    <question id="3" question="We can visit outer space if we become an ________." > 
+      <option slno="1" desc="Astronaut" correct="true" />
+      <option slno="2" desc="Doctor" correct="false"  />
+      <option slno="3" desc="Musician" correct="false"  />
+    </question>
+
+  </Passage>
+ 
+  <Passage Stage="1" id="psge_2"  JokesGroupId="Jokes_2" desc="What kind of horses do monsters use for racing? Nightmares." Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="Nightmares are _________." > 
+      <option slno="1" desc="terrible dreams." correct="true" />
+      <option slno="2" desc="happy dreams." correct="false"  />
+      <option slno="3" desc="night lights." correct="false"  />
+    </question>
+
+    <question id="2" question="What are monsters?" > 
+      <option slno="1" desc="persons of extremely good nature" correct="false" />
+      <option slno="2" desc="large, ugly, and frightening imaginary creatures" correct="true"  />
+      <option slno="3" desc="animals who are very helpful" correct="false"  />
+    </question>
+
+    <question id="3" question="What is a race?" > 
+      <option slno="1" desc="fasten or tighten (a shoe or garment) by tying the laces" correct="false" />
+      <option slno="2" desc="the surface of a thing" correct="false"  />
+      <option slno="3" desc="a competition between runners, horses, vehicles, etc. to see which is the fastest in covering a set course." correct="true"  />
+    </question>
+  </Passage>
+
+<Passage Stage="1" id="psge_3"  JokesGroupId="Jokes_3" desc="What kind of child can jump higher than a house? -All kinds. Houses can’t jump!" Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="Can you jump higher than a house?" > 
+      <option slno="1" desc="No, a house is too tall." correct="false" />
+      <option slno="2" desc="Yes, because houses can't jump." correct="true"  />
+    </question>
+
+    <question id="2" question="What will you call a child who always jumps around?" > 
+      <option slno="1" desc="Naughty" correct="true" />
+      <option slno="2" desc="Quiet" correct="false"  />
+      <option slno="3" desc="Funny" correct="false"  />
+    </question>
+
+    <question id="3" question="Complete the sequence: high, higher, ______." > 
+      <option slno="1" desc="higherer" correct="false" />
+      <option slno="2" desc="most high" correct="false"  />
+      <option slno="3" desc="highest" correct="true"  />
+    </question>
+  </Passage>
+
+ <Passage Stage="1" id="psge_4"  JokesGroupId="Jokes_4" desc="Why was the math book unhappy? -Because he had too many problems" Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="The meaning of unhappy is ________." > 
+      <option slno="1" desc="delighted" correct="false" />
+      <option slno="2" desc="sad" correct="true"  />
+      <option slno="3" desc="angry" correct="false"  />
+    </question>
+
+    <question id="2" question="What problems did the math book have?" > 
+      <option slno="1" desc="Science problems" correct="false" />
+      <option slno="2" desc="Math problems" correct="true"  />
+      <option slno="3" desc="English problems" correct="false"  />
+    </question>
+
+    <question id="3" question="When will the math book be happy?" > 
+      <option slno="1" desc="When the problems will be solved." correct="true" />
+      <option slno="2" desc="When the book gets torn." correct="false"  />
+      <option slno="3" desc="When the book gets more problems." correct="false"  />
+    </question>
+  </Passage>
+
+<Passage Stage="2" id="psge_1"  JokesGroupId="Jokes_1" desc="What helps ghosts win games? -Their team spirit." Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="What are ghosts?" > 
+      <option slno="1" desc="Spirit of a dead person." correct="true" />
+      <option slno="2" desc="The number of people who pay to enter a sports ground for an event." correct="false"  />
+      <option slno="3" desc="Allow someone to experience something." correct="false"  />
+    </question>
+
+    <question id="2" question="What is team spirit?" > 
+      <option slno="1" desc="a group of players forming one side in a competitive game or sport" correct="false" />
+      <option slno="2" desc="feelings of camaraderie among the members of a group, enabling them to cooperate and work well together." correct="true"  />
+      <option slno="3" desc="a person who instructs or trains a performer or team" correct="false"  />
+    </question>
+
+    <question id="3" question="Without team spirit the ghosts would ____." > 
+      <option slno="1" desc="Lost" correct="false" />
+      <option slno="2" desc="Lose" correct="true"  />
+      <option slno="3" desc="Loss" correct="false"  />
+    </question>
+
+  </Passage>
+ 
+  <Passage Stage="2" id="psge_2"  JokesGroupId="Jokes_2" desc="Why didn't the sun go to college?
+-Because it already had a million degrees!" Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="What does the Sun have?" > 
+      <option slno="1" desc="A million daughters" correct="false" />
+      <option slno="2" desc="A million degrees" correct="true"  />
+      <option slno="3" desc="A million dogs" correct="false"  />
+    </question>
+
+    <question id="2" question="We go to college after completing ______." > 
+      <option slno="1" desc="nursery" correct="false" />
+      <option slno="2" desc="kindergarten" correct="false"  />
+      <option slno="3" desc="school" correct="true"  />
+    </question>
+
+    <question id="3" question="The Sun has a million degrees of ________.
+" > 
+      <option slno="1" desc="snow" correct="false" />
+      <option slno="2" desc="heat" correct="true"  />
+      <option slno="3" desc="frost" correct="false"  />
+    </question>
+  </Passage>
+
+<Passage Stage="2" id="psge_3"  JokesGroupId="Jokes_3" desc="What’s worse than a worm in your apple?
+-Half a worm" Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="What is a worm?" > 
+      <option slno="1" desc="having or showing enthusiasm, affection, or kindness" correct="false" />
+      <option slno="2" desc="creeping or burrowing invertebrate animal with long, slender soft bodies and no limbs" correct="true"  />
+      <option slno="3" desc="inform someone in advance of a possible danger, problem" correct="false"  />
+    </question>
+
+    <question id="2" question="What does having half a worm mean?" > 
+      <option slno="1" desc="The person has eaten the other half" correct="true" />
+      <option slno="2" desc="The worm was always half" correct="false"  />
+      <option slno="3" desc="The apple has eaten the other half" correct="false"  />
+    </question>
+
+    <question id="3" question="Complete the sequence: bad, worse, _______." > 
+      <option slno="1" desc="worsest" correct="false" />
+      <option slno="2" desc="worser" correct="false"  />
+      <option slno="3" desc="worst" correct="true"  />
+    </question>
+  </Passage>
+
+ <Passage Stage="2" id="psge_4"  JokesGroupId="Jokes_4" desc="Teacher: Ram, why do you always get so dirty? 
+Ram: Well, I'm a lot closer to the ground than you are." Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="Why is Ram closer to the ground?" > 
+      <option slno="1" desc="Because he is taller" correct="false" />
+      <option slno="2" desc="Because he always sits on the ground" correct="false"  />
+      <option slno="3" desc="Because he is shorter" correct="true"  />
+    </question>
+
+    <question id="2" question="What is the opposite of dirty?" > 
+      <option slno="1" desc="Clean" correct="true" />
+      <option slno="2" desc="Near" correct="false"  />
+      <option slno="3" desc="Empty" correct="false"  />
+    </question>
+
+    <question id="3" question="Ram is always dirty means that:" > 
+      <option slno="1" desc="He is never dirty" correct="false" />
+      <option slno="2" desc="He is dirty often" correct="false"  />
+      <option slno="3" desc="He is dirty all the time" correct="true"  />
+    </question>
+  </Passage>
+
+<Passage Stage="3" id="psge_1"  JokesGroupId="Jokes_1" desc="Did you hear about the boy who tried to swim across the lake? When he was halfway to the other side he decided he was too tired, so he turned round and went back again." Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="Who tried to swim across the lake?" > 
+      <option slno="1" desc="A girl" correct="false" />
+      <option slno="2" desc="A boy" correct="true"  />
+      <option slno="3" desc="A cat" correct="false"  />
+    </question>
+
+    <question id="2" question="Where was the boy swimming?" > 
+      <option slno="1" desc="In the sea" correct="false" />
+      <option slno="2" desc="In the ocean" correct="false"  />
+      <option slno="3" desc="In the lake" correct="true"  />
+    </question>
+
+    <question id="3" question="Why did he turn around halfway?" > 
+      <option slno="1" desc="Because he was tired." correct="true" />
+      <option slno="2" desc="Because he wanted to start again." correct="false"  />
+      <option slno="3" desc="Because he forgot how to swim." correct="false"  />
+    </question>
+
+  </Passage>
+ 
+  <Passage Stage="3" id="psge_2"  JokesGroupId="Jokes_2" desc="Knock, knock. 
+								Who's there? 
+								Broken pencil. 
+								Broken pencil who? 
+								Oh, never mind it's pointless!" Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="Who was knocking?" > 
+      <option slno="1" desc="A pen" correct="false" />
+      <option slno="2" desc="A parrot" correct="false"  />
+      <option slno="3" desc="A pencil" correct="true"  />
+    </question>
+
+    <question id="2" question="The broken pencil did not have a _______." > 
+      <option slno="1" desc="paint" correct="false" />
+      <option slno="2" desc="patent" correct="false"  />
+      <option slno="3" desc="point" correct="true"  />
+    </question>
+
+    <question id="3" question="Pointless also means __________." > 
+      <option slno="1" desc="having little or no sense, use, or purpose" correct="true" />
+      <option slno="2" desc="making a lot of sense" correct="false"  />
+      <option slno="3" desc="having no starting point" correct="false"  />
+    </question>
+  </Passage>
+
+<Passage Stage="3" id="psge_3"  JokesGroupId="Jokes_3" desc="There were two cows in a field. The first cow said “moo” and the second cow said “baaaa.” The first cow asked the second cow, “Why did you say baaaa?” The second cow said, “I’m learning a foreign language.”"  Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="How many cows were there in the field?" > 
+      <option slno="1" desc="One" correct="false" />
+      <option slno="2" desc="Two" correct="true"  />
+      <option slno="3" desc="Three" correct="false"  />
+    </question>
+
+    <question id="2" question="Who is trying to learn a foreign language?" > 
+      <option slno="1" desc="The 1st cow" correct="false" />
+      <option slno="2" desc="The 2nd cow" correct="true"  />
+      <option slno="3" desc="The 3rd cow" correct="false"  />
+    </question>
+
+    <question id="3" question="What did the cow say in an foreign language?" > 
+      <option slno="1" desc="baaa" correct="true" />
+      <option slno="2" desc="moo" correct="false"  />
+      <option slno="3" desc="hamba" correct="false"  />
+    </question>
+  </Passage>
+
+ <Passage Stage="3" id="psge_4"  JokesGroupId="Jokes_4" desc="	After cleaning a five-year-old patient’s teeth, the dentist accompanied him to the reception area, only to see him struggle with the oak door. 'It’s heavy, isn’t it?' I asked.'Yes,' he said. 'Is that so children can’t escape?'"  Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="Who is a dentist?" > 
+      <option slno="1" desc="a medical practitioner qualified to practise surgery" correct="false" />
+      <option slno="2" desc="a person who specializes in the medical and surgical care of the eyes and visual system and in the prevention of eye disease and injury." correct="false"  />
+      <option slno="3" desc="a person who is qualified to treat diseases and other conditions that affect the teeth and gums" correct="true"  />
+    </question>
+
+    <question id="2" question="How old was the patient?" > 
+      <option slno="1" desc="10 years old" correct="false" />
+      <option slno="2" desc="5 years old" correct="true"  />
+      <option slno="3" desc="7 years old" correct="false"  />
+    </question>
+
+    <question id="3" question="Why was the patient struggling with the oak door?" > 
+      <option slno="1" desc="Because it was locked" correct="false" />
+      <option slno="2" desc="Because the dentist was helping" correct="false"  />
+      <option slno="3" desc="Because the door was heavy" correct="true"  />
+    </question>
+  </Passage>
+
+<Passage Stage="4" id="psge_1"  JokesGroupId="Jokes_1" desc="A team of little animals and a team of big animals decided to play football. During the first half of the game, the big animals were winning. But during the second half, a centipede scored so many goals that the little animals won the game. When the game was over, monkey asked the centipede, “Where were you during the first half?” He replied “Putting on my shoes!”." Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="Who were playing against the big animals?" > 
+      <option slno="1" desc="Bigger animals" correct="false" />
+      <option slno="2" desc="Little animals" correct="true"  />
+      <option slno="3" desc="No one " correct="false"  />
+    </question>
+
+    <question id="2" question="Who helped the little animals to win the game?" > 
+      <option slno="1" desc="The caterpillar" correct="false" />
+      <option slno="2" desc="The centipede" correct="true"  />
+    </question>
+
+    <question id="3" question="Who was losing in the first half of the game?" > 
+      <option slno="1" desc="The little animals" correct="true" />
+      <option slno="2" desc="There was a tie" correct="false"  />
+    </question>
+
+    <question id="4" question="What was the centipede doing in the first half?" > 
+      <option slno="1" desc="Stuck in traffic" correct="false" />
+      <option slno="2" desc="Putting on his shoes" correct="true"  />
+    </question>
+
+
+  </Passage>
+ 
+  <Passage Stage="4" id="psge_2"  JokesGroupId="Jokes_2" desc="Two boys were playing marble and suddenly rushed to the hospital. Younger boy told to the doctor, “I have swallowed a marble. ”Doctor: “I see, Is this your brother with you?” asked the doctor to the older boy. The other boy replied “No, I own the marble.”" Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="How many boys were playing marble?" > 
+      <option slno="1" desc="two" correct="true" />
+      <option slno="2" desc="three" correct="false"  />
+    </question>
+
+    <question id="2" question="Who swallowed the marble?" > 
+      <option slno="1" desc="Bigger boy" correct="false" />
+      <option slno="2" desc="Smaller boy" correct="true"  />
+    </question>
+
+    <question id="3" question="Where did they find the doctor?" > 
+      <option slno="1" desc="In school" correct="false" />
+      <option slno="2" desc="In the hospital" correct="true"  />
+      <option slno="3" desc="On the road" correct="false"  />
+    </question>
+
+    <question id="4" question="Was the bigger boy the brother of the smaller boy?" > 
+      <option slno="1" desc="No" correct="true" />
+      <option slno="2" desc="Yes" correct="false"  />
+    </question>
+ 
+ </Passage>
+
+ <Passage Stage="4" id="psge_3"  JokesGroupId="Jokes_3" desc="There was a duck who walked into a store and said, “got any candy?” The storekeeper said, “no, we don’t.” The next day, the duck went into the same store and asked the same thing and got the same answer. The duck kept going back every day for a week and asked the same thing and kept getting the same answer until the store keeper got so angry he said, “if you come in here and ask that again, I will hit you on the head with a hammer!” The next day, the duck walks into the store and asks, “got a hammer?” The store keeper says, “no.” Then the duck asks, “got any candy?”" Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="Who walked into a store?" > 
+      <option slno="1" desc="A doll" correct="false" />
+      <option slno="2" desc="A duck" correct="true"  />
+      <option slno="3" desc="A dog" correct="false"  />
+    </question>
+
+    <question id="2" question="What did the duck want to buy?" > 
+      <option slno="1" desc="Coconut" correct="false" />
+      <option slno="2" desc="Camera" correct="false"  />
+      <option slno="3" desc="Candy" correct="true"  />
+    </question>
+
+    <question id="3" question="With what did the storekeeper threaten to hit the duck?" > 
+      <option slno="1" desc="A hanger" correct="false" />
+      <option slno="2" desc="A handle" correct="false"  />
+      <option slno="3" desc="A hammer" correct="true"  />
+    </question>
+
+    <question id="4" question="For how long did the duck go to the store till the storekeeper got angry?" > 
+      <option slno="1" desc="One month" correct="false" />
+      <option slno="2" desc="9 days" correct="false"  />
+      <option slno="3" desc="7 days" correct="true"  />
+    </question>
+
+</Passage>
+ 
+<Passage Stage="4" id="psge_4"  JokesGroupId="Jokes_4" desc=" 'A man was looking out his window when he noticed that there was a snail on one of his plants. So he took the snail and threw him as far as he could. Ten years later the old man heard a tap tap tap on his window, and when he looked up he saw a very angry snail who looked at him and said, 'Hey, what did you do that for?' "  Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="What did the man notice?" > 
+      <option slno="1" desc="A snake" correct="false" />
+      <option slno="2" desc="A snail" correct="true"  />
+      <option slno="3" desc="A skate" correct="false"  />
+    </question>
+
+    <question id="2" question="Where was the snail" > 
+      <option slno="1" desc="On the window" correct="false" />
+      <option slno="2" desc="On the door" correct="false"  />
+      <option slno="3" desc="On the plant" correct="true"  />
+    </question>
+
+    <question id="3" question="How long did the snail take to come back?" > 
+      <option slno="1" desc="10 years" correct="true" />
+      <option slno="2" desc="11 years" correct="false"  />
+      <option slno="3" desc="9 years" correct="false"  />
+    </question>
+
+    <question id="4" question="Why was the snail angry?" > 
+      <option slno="1" desc="Because he was so slow" correct="false" />
+      <option slno="2" desc="Because the man had thrown him" correct="true"  />
+      <option slno="3" desc="Because the plants had died" correct="false"  />
+    </question>
+
+</Passage>
+
+<Passage Stage="5" id="psge_1"  JokesGroupId="Jokes_1" desc=" A little boy was afraid of the dark. One night his mother told him to go out to the garden at the back and bring her the broom. The little boy turned to his mother and said, 'Mama, I don’t want to go out there. It’s dark.' 
+The mother smiled reassuringly at her son. 'You don’t have to be afraid of the dark,' she explained. 'God is out there. He’ll look after you and protect you.' 
+The little boy looked at his mother real hard and asked, 'Are you sure he’s out there?'
+ 'Yes, I’m sure. He is everywhere, and he is always ready to help you when you need him,' she said.
+The little boy thought about that for a minute and then went to the back door and cracked it a little. Peering out into the darkness, he called, 'God? If you’re out there, would you please hand me the broom?' " Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="What was the little boy afraid of?" > 
+      <option slno="1" desc="The door" correct="false" />
+      <option slno="2" desc="The dark" correct="true"  />
+      <option slno="3" desc="The dance" correct="false"  />
+    </question>
+
+    <question id="2" question="What did the mother ask him to bring?" > 
+      <option slno="1" desc="A brush" correct="false" />
+      <option slno="2" desc="A brochure" correct="false"  />
+      <option slno="3" desc="A broom" correct="true"  />
+    </question>
+
+    <question id="3" question="Where did mother say God was?" > 
+      <option slno="1" desc="Everywhere" correct="true" />
+      <option slno="2" desc="In the dark" correct="false"  />
+      <option slno="3" desc="In the garden" correct="false"  />
+    </question>
+    
+    <question id="4" question="Why did the boy ask for the broom from God?" > 
+      <option slno="1" desc="He did not want do it himself" correct="false" />
+      <option slno="2" desc="He wanted to make God work" correct="false"  />
+      <option slno="3" desc="He wanted to check if his mother had told the truth about God being everywhere and willing to help him." correct="true"  />
+    </question>
+ 
+ </Passage>
+ 
+ <Passage Stage="5" id="psge_2"  JokesGroupId="Jokes_2" desc=" 'There where two snakes talking. The 1st one said 'Suraj, are we the type of snakes who wrap ourselves around our prey and squeeze and crush until they're dead? Or are we the type of snake who ambush our prey and bite them and they are poisioned? Then the second Snake says 'Why do you ask?' The 1st one replies: 'I just bit my lip!' " Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="What were the two snakes doing?" > 
+      <option slno="1" desc="Dancing" correct="false" />
+      <option slno="2" desc="Talking" correct="true"  />
+      <option slno="3" desc="Walking" correct="false"  />
+    </question>
+
+    <question id="2" question="What is the name of the 1st snake?" > 
+      <option slno="1" desc="Suraj" correct="false" />
+      <option slno="2" desc="Not given" correct="true"  />
+    </question>
+    
+    <question id="3" question="Why was the snake worried?" > 
+      <option slno="1" desc="Because he had bit his friend" correct="false" />
+      <option slno="2" desc="Because he was hungry" correct="false"  />
+      <option slno="3" desc="Because he had bit his lip" correct="true"  />
+    </question>
+
+    <question id="4" question="What is the meaning of prey?" > 
+      <option slno="1" desc="An animal that is hunted and killed by another for food" correct="true" />
+      <option slno="2" desc="Search determinedly for someone or something" correct="false"  />
+      <option slno="3" desc="Fine, dry powder consisting of tiny particles of earth or waste matter lying on the ground or on surfaces or carried in the air" correct="false"  />
+    </question>
+
+ </Passage>
+
+ <Passage Stage="5" id="psge_3"  JokesGroupId="Jokes_3" desc=" 'A man absolutely hated his wife's cat and decided to get rid of him one day by driving him 20 streets away from his home and leaving him at the park. As he arrived home, the cat was walking up the stairs. The next day he decided to drive the cat 40 streets away. He put the beast out and headed home. Driving back up his driveway, there was the cat! 
+He kept taking the cat further and further, but the cat would always beat him home. At last he decided to drive a few miles away, turn right, then left, past the bridge, then right again and another right until he reached what he thought was a safe distance from his home and left the cat there. Hours later the man calls home to his wife: 'Jyoti, is the cat there?' 'Yes', the wife answers, 'why do you ask?' 'I'm lost,' says the man, 'and I need the cat to give me directions home.'" Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="What pet did the man's wife have?" > 
+      <option slno="1" desc="A cat" correct="true" />
+      <option slno="2" desc="A dog" correct="false"  />
+      <option slno="3" desc="A rabbit" correct="false"  />
+    </question>
+
+    <question id="2" question="How many streets away did the man drive on the 2nd day?" > 
+      <option slno="1" desc="20 streets" correct="false" />
+      <option slno="2" desc="40 streets" correct="true"  />
+      <option slno="3" desc="50 streets" correct= "false"  />
+    </question>
+    
+    <question id="3" question="What is the name of the wife?" > 
+      <option slno="1" desc="Jenna" correct="false" />
+      <option slno="2" desc="Joanna" correct="false"  />
+      <option slno="3" desc="Jyoti" correct="true"  />
+    </question>
+
+    <question id="4" question="Why did the man want directions from the cat?" > 
+      <option slno="1" desc="Because he was lost and the cat knew the way." correct="true" />
+      <option slno="2" desc="Because he liked the cat more than his wife" correct="false"  />
+      <option slno="3" desc="Because the cat wanted to speak to him" correct="false"  />
+    </question>
+ 
+ </Passage>
+
+
+ <Passage Stage="5" id="psge_4"  JokesGroupId="Jokes_4" desc="A magician was working on a cruise ship. The audience would be different each week, so the magician allowed himself to do the same tricks over and over again. There was only one problem: The captain's parrot saw the shows each week and began to understand how the magician did every trick. Once he understood he started shouting in the middle of the show: 'Look, it's not the same hat' 'Look, he is hiding the flowers under the table' 'Hey, why are all the cards the Ace of Spades?' The magician was furious but couldn't do anything; it was, after all, the captain's parrot. One day the ship had an accident and sank. The magician found himself on a piece of wood in the middle of the ocean with the parrot, of course. They stared at each other with hate, but did not utter a word. This went on for a day and another and another. After a week the parrot said: 'OK, I give up. Where's the boat?'
+" Use="L,T,P" BloomsTaxonomy="1,2,3">
+    
+    <question id="1" question="Where was the magician working?" > 
+      <option slno="1" desc="On an aircraft" correct="false" />
+      <option slno="2" desc="On a cruise ship" correct="true"  />
+      <option slno="3" desc="On a bus" correct="false"  />
+    </question>
+
+    <question id="2" question="Who understood the magician's tricks?" > 
+      <option slno="1" desc="The parrot" correct="true" />
+      <option slno="2" desc="The pigeon" correct="false"  />
+      <option slno="3" desc="The audience" correct="false"  />
+    </question>
+
+    <question id="3" question="What happened to the ship?" > 
+      <option slno="1" desc="It reached India" correct="false" />
+      <option slno="2" desc="It stopped sailing" correct="false"  />
+      <option slno="3" desc="It met with an accident" correct="true"  />
+    </question>
+
+    <question id="4" question="What did the parrot think had happened to the ship?" > 
+      <option slno="1" desc="The ship had thrown them out" correct="false" />
+      <option slno="2" desc="The magician had made the ship disappear" correct="true"  />
+      <option slno="3" desc="The ship had sunk in the ocean" correct="false"  />
+    </question>
+
+ </Passage>
+
+
+</activities>

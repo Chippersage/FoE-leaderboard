@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page 2</title>
+    <script>
+        function displayUserInfo() {
+            // Retrieve the name and uid from local storage
+            const name = localStorage.getItem('userName') || 'Guest';
+            const uid = localStorage.getItem('userId') || 'unknown';
+            console.log("name=", name);
+            console.log("uid=", uid);
+            const greetingElement = document.getElementById('greeting');
+            greetingElement.textContent = `Hello again, ${name}! Your UID is ${uid}.`;
+        }
+
+        // Call displayUserInfo on window load
+        window.onload = displayUserInfo;
+    </script>
+</head>
+<body>
+    <h1 id="greeting"> </h1>
+</body>
+</html>

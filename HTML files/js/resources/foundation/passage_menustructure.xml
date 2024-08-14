@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <menuitem id="Passage" title="Passage activities" teach="no">
+    <menuitem PassageGroupId="passage_1" learn="no" themes="Vocabulary,Jumbledwords,Fillintheblanks,Spelling" Stage="0" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_2" learn="no" themes="Spelling,Jumbledwords,Fillintheblanks" Stage="0" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_3" learn="no" themes="Comprehension,Vocabulary,Fillintheblanks,QandA,Spelling" Stage="0" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_4" learn="no" themes="Comprehension,Vocabulary,Jumbledwords,Fillintheblanks" Stage="0" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_5" learn="no" themes="Vocabulary,Spelling,Jumbledwords,Fillintheblanks" Stage="0" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_6" learn="no" themes="Comprehension,Vocabulary,Fillintheblanks,Jumbledwords,Spelling" Stage="" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_7" learn="no" themes="Comprehension,Vocabulary,Spelling,Jumbledwords,Fillintheblanks,QandA" Stage="1" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_8" learn="no" themes="Comprehension,Vocabulary,Spelling,Jumbledwords,Fillintheblanks,QandA" Stage="1" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_9" learn="no" themes="Comprehension,Vocabulary,Spelling,Jumbledwords,Fillintheblanks,QandA" Stage="1" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_10" learn="no" themes="Comprehension,Spelling,Jumbledwords,Fillintheblanks,QandA" Stage="1" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_11" learn="no" themes="Vocabulary,Fillintheblanks,QandA" Stage="2" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_12" learn="no" themes="Comprehension,Vocabulary,Spelling,Jumbledwords,Fillintheblanks,QandA" Stage="2" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_13" learn="no" themes="Comprehension,Vocabulary,Spelling,Jumbledwords,Fillintheblanks,QandA" Stage="2" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_14" learn="no" themes="Comprehension,Vocabulary,Jumbledwords,Fillintheblanks" Stage="2" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_16" learn="no" themes="Comprehension,Vocabulary,Spelling,Fillintheblanks,QandA" Stage="2" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_17" learn="no" themes="Comprehension,Spelling,Jumbledwords,Fillintheblanks" Stage="2" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_18" learn="no" themes="Comprehension,Vocabulary,Spelling,Fillintheblanks,QandA" Stage="3" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_19" learn="no" themes="Comprehension,Vocabulary,Spelling,Fillintheblanks,QandA" Stage="3" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_20" learn="no" themes="Comprehension,Vocabulary,Spelling,Jumbledwords,Fillintheblanks,QandA" Stage="3" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_21" learn="no" themes="Comprehension,Vocabulary,Spelling,Fillintheblanks,QandA" Stage="3" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_22" learn="no" themes="Comprehension,Vocabulary,Spelling,Fillintheblanks,QandA" Stage="3" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_23" learn="no" themes="Comprehension,Vocabulary,Fillintheblanks" Stage="3" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_24" learn="no" themes="Vocabulary,QandA" Stage="3" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_25" learn="no" themes="Comprehension,Vocabulary,Jumbledwords,Fillintheblanks,QandA" Stage="3" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_26" learn="no" themes="Comprehension,Vocabulary,Spelling,Jumbledwords,Fillintheblanks,QandA" Stage="4" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_27" learn="no" themes="Comprehension,Vocabulary,Spelling,QandA" Stage="4" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_28" learn="no" themes="Comprehension,Vocabulary,Spelling,Fillintheblanks,QandA" Stage="4" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_29" learn="no" themes="Comprehension,Vocabulary,Spelling,Jumbledwords,Fillintheblanks,QandA" Stage="4" excludeFromDemo="false"/>
+     <menuitem PassageGroupId="passage_30" learn="no" themes="Comprehension,Vocabulary,Fillintheblanks" Stage="4" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_31" learn="no" themes="Comprehension,Vocabulary,Jumbledwords,Fillintheblanks" Stage="4" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_32" learn="no" themes="Comprehension,Vocabulary,Spelling,Jumbledwords,QandA" Stage="4" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_33" learn="no" themes="Comprehension,Vocabulary,Spelling,Jumbledwords,Fillintheblanks" Stage="4" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_34" learn="no" themes="Comprehension,Vocabulary,Spelling,Jumbledwords,Fillintheblanks,QandA" Stage="5" excludeFromDemo="false"/>
+     <menuitem PassageGroupId="passage_35" learn="no" themes="Comprehension,Vocabulary,QandA" Stage="5" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_36" learn="no" themes="Comprehension,Vocabulary,Spelling,Jumbledwords,Fillintheblanks,QandA" Stage="5" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_37" learn="no" themes="Comprehension,Vocabulary,Spelling,Jumbledwords,Fillintheblanks,QandA" Stage="5" excludeFromDemo="false"/>
+    <menuitem PassageGroupId="passage_38" learn="no" themes="Comprehension,Vocabulary,Spelling,Jumbledwords,Fillintheblanks,QandA" Stage="5" excludeFromDemo="false"/>
+    
+    
+    
+
+  </menuitem>
+</root>
