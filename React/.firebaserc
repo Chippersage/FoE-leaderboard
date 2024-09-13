@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "quiz-app-f21c8",
+    "quiz-app": "quizapp-253"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
